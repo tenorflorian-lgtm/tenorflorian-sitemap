@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://tenorflorian.com/</loc></url>
-  <url><loc>https://tenorflorian.com/nl/Home</loc></url>
-  <url><loc>https://tenorflorian.com/nl/Carriere</loc></url>
-  <url><loc>https://tenorflorian.com/nl/Discografie</loc></url>
-  <url><loc>https://tenorflorian.com/nl/Evenementen</loc></url>
-  <url><loc>https://tenorflorian.com/nl/Contact</loc></url>
-  <url><loc>https://tenorflorian.com/de/Home</loc></url>
-  <url><loc>https://tenorflorian.com/de/Discography</loc></url>
-  <url><loc>https://tenorflorian.com/de/Events</loc></url>
-  <url><loc>https://tenorflorian.com/de/Contact</loc></url>
+  <url><loc>https://tenorflorian.com/nl/Home/</loc></url>
+  <url><loc>https://tenorflorian.com/nl/Carriere/</loc></url>
+  <url><loc>https://tenorflorian.com/nl/Discografie/</loc></url>
+  <url><loc>https://tenorflorian.com/nl/Evenementen/</loc></url>
+  <url><loc>https://tenorflorian.com/nl/Contact/</loc></url>
+  <url><loc>https://tenorflorian.com/de/Home/</loc></url>
+  <url><loc>https://tenorflorian.com/de/Discography/</loc></url>
+  <url><loc>https://tenorflorian.com/de/Events/</loc></url>
+  <url><loc>https://tenorflorian.com/de/Contact/</loc></url>
 </urlset>
